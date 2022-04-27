@@ -7,7 +7,7 @@
             Connect with us on your favorite platform.
           </h5> -->
           <div class="mt-6 lg:mb-0 mb-6">
-            <a href="https://www.linkedin.com/company/80679421" alt="linked-in"><button class="bg-white text-lightBlue-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2" type="button">
+            <!-- <a href="https://www.linkedin.com/company/80679421" alt="linked-in"><button class="bg-white text-lightBlue-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2" type="button">
               <i class="fab fa-linkedin"></i><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
               viewBox="0 0 495 495" style="enable-background:new 0 0 495 495;" xml:space="preserve">
            <g>
@@ -20,7 +20,7 @@
                c-35.871,0-51.883,19.74-60.856,33.547v0.665h-0.442c0.118-0.219,0.306-0.442,0.442-0.665v-28.779h-67.537
                c0.905,19.053,0,203.096,0,203.096H266.4z"/>
              <rect x="94.016" y="194.906" style="fill:#3D9AE2;" width="67.506" height="203.096"/>
-           </g></button></a>
+           </g></button></a> -->
 
 
 
@@ -40,7 +40,7 @@
 
             <div class="w-full lg:w-4/12 px-4 ml-auto">
               <!-- <span class="block uppercase text-blueGray-500 text-sm font-semibold mb-2">Useful Links</span> -->
-              <ul class="list-unstyled">
+              <!-- <ul class="list-unstyled">
                 <li>
                   <a class="text-yellow-800 hover:text-blueGray-800 font-semibold block pb-2 text-sm" href=/about>About Us</a>
                 </li>
@@ -59,7 +59,7 @@
                   <li>
                     <a class="text-yellow-800 hover:text-blueGray-800 font-semibold block pb-2 text-sm" href=/contact>Contact Us</a>
                   </li>
-              </ul>
+              </ul> -->
             </div>
 
           </div>
@@ -70,7 +70,7 @@
         <div class="w-full md:w-4/12 px-4 mx-auto text-center">
           <div class="text-sm text-blueGray-500 font-semibold py-1">
             Copyright © <span id="get-current-year">2022 </span><a href="/" class="text-yellow-800 hover:text-gray-800" target="_blank"> All Rights Reserved</a> by
-            <a href="/" class="text-yellow-800 hover:text-blueGray-800">Petraton</a>
+            <a href="/" class="text-yellow-800 hover:text-blueGray-800">Innoviume</a>
           </div>
         </div>
       </div>

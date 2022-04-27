@@ -25,11 +25,11 @@
 	  <!-- {/* Hero content */} -->
 		<!-- {/* Section header */} -->
 	
-	  <img class="object-center h-80 mt-10" src="/img/Petraton.svg" alt="Petraton" />	
+	  <img class="object-center h-80 mt-10" src="/img/Innoviume.svg" alt="Innoviume" />	
 	  <!-- </div>	 -->
 		<div class="text-center pb-12 md:pb-16">
-		  <h1 class="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter text-black m-10" data-aos="zoom-y-out">Petraton </h1>
-		  <span class="text-3xl md:text-3xl font-extrabold leading-tighter tracking-tighter mb-4 bg-clip-text text-transparent bg-gradient-to-r from-white to-yellow-300">The tech mineral company</span>
+		  <h1 class="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter text-black m-10" data-aos="zoom-y-out">Innoviume </h1>
+		  <!-- <span class="text-3xl md:text-3xl font-extrabold leading-tighter tracking-tighter mb-4 bg-clip-text text-transparent bg-gradient-to-r from-white to-yellow-300">The tech mineral company</span> -->
 		  <div class="max-w-3xl mx-auto">
 			<p class="text-xl text-white mb-8" data-aos="zoom-y-out" data-aos-delay="150">Mining start-up focused on the search and discovery of critical minerals that power advances in world technology.</p>
 			<div class="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center" data-aos="zoom-y-out" data-aos-delay="300">
@@ -37,7 +37,7 @@
 				<a class="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:mb-0" href="#0">Start free trial</a>
 			  </div> -->
 			  <div>
-				<a class="btn text-white bg-yellow-900 hover:bg-gray-500 w-full sm:w-auto sm:ml-0" href="/about">Learn more</a>
+				<!-- <a class="btn text-white bg-yellow-900 hover:bg-gray-500 w-full sm:w-auto sm:ml-0" href="/about">Learn more</a> -->
 			  </div>
 			</div>
 		  </div>
@@ -60,7 +60,7 @@
 				<a class="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:mb-0" href="#0">Start free trial</a>
 			  </div> -->
 			  <div>
-				<a class="btn text-white bg-gray-700 hover:bg-yellow-500 w-full sm:w-auto sm:ml-0" href="/projects">Here's how!</a>
+				<!-- <a class="btn text-white bg-gray-700 hover:bg-yellow-500 w-full sm:w-auto sm:ml-0" href="/projects">Here's how!</a> -->
 			  </div>
 			</div>
 		  </div>
@@ -99,8 +99,8 @@
                   </g>
                 </g>
               </svg>
-              <h4 class="text-xl font-bold leading-snug tracking-tight mb-1">Exploration License</h4>
-              <p class="text-yellow-800 text-center">We hold over 1000 sq. km of exclusively licensed acreage in the West African frontier lithium belt .</p>
+              <h4 class="text-xl font-bold leading-snug tracking-tight mb-1">Exploration Program</h4>
+              <p class="text-yellow-800 text-center">We utilize modern exploration techniques in the search for new mineral resources.</p>
             </div>
 
             <!-- {/* 2nd item */} -->

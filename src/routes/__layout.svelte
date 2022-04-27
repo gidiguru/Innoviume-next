@@ -4,11 +4,11 @@
 	import '../app.css';
 </script>
 
-<Header />
+<!-- <Header /> -->
 
 <main>
 	<slot></slot>
 </main>
 
-<Footer />
+<!-- <Footer /> -->
 
