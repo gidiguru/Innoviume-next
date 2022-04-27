@@ -28,7 +28,7 @@
 	  <img class="object-center h-80 mt-10" src="/img/Innoviume.svg" alt="Innoviume" />	
 	  <!-- </div>	 -->
 		<div class="text-center pb-12 md:pb-16">
-		  <h1 class="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter text-black m-10" data-aos="zoom-y-out">Innoviume </h1>
+		  <h1 class="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter text-black m-10" data-aos="zoom-y-out">innoviume </h1>
 		  <!-- <span class="text-3xl md:text-3xl font-extrabold leading-tighter tracking-tighter mb-4 bg-clip-text text-transparent bg-gradient-to-r from-white to-yellow-300">The tech mineral company</span> -->
 		  <div class="max-w-3xl mx-auto">
 			<p class="text-xl text-white mb-8" data-aos="zoom-y-out" data-aos-delay="150">Mining start-up focused on the search and discovery of critical minerals that power advances in world technology.</p>
